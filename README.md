@@ -32,26 +32,3 @@ smartlab-redes-vr-unb/
 ├── .gitignore
 └── README.md
 
-
-Depois clique em **Commit changes**.
-
-### Passo 3 — Criar as pastas principais
-
-No GitHub, clique em **Add file > Create new file**.
-
-Para criar uma pasta, você precisa escrever o nome da pasta, uma barra `/` e depois um arquivo. Como o GitHub não salva pasta vazia, use um arquivo chamado `.gitkeep`.
-
-Crie estes arquivos, um por vez:
-
-```txt
-docs/.gitkeep
-evidencias/.gitkeep
-mockups/.gitkeep
-Assets/Scenes/.gitkeep
-Assets/Scripts/.gitkeep
-Assets/Prefabs/.gitkeep
-Assets/Materials/.gitkeep
-Assets/Models/.gitkeep
-Assets/Textures/.gitkeep
-Assets/Audio/.gitkeep
-ProjectSettings/.gitkeep
