@@ -16,8 +16,6 @@ Assim, este repositório organiza a proposta como um planejamento técnico compl
 smartlab-redes-vr-unb/
 ├── docs/
 │   └── Relatorio_Tecnico_SmartLab_Redes_VR_UNB.pdf
-├── evidencias/
-│   └── prints relacionados à falha de execução do Unity
 ├── mockups/
 │   └── imagens ou esboços conceituais da sala
 ├── Assets/
