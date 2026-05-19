@@ -10,6 +10,9 @@ Durante a tentativa de uso do Unity Editor, o software apresentou falha de inici
 
 Assim, este repositório organiza a proposta como um planejamento técnico completo, contendo relatório, estrutura prevista do projeto, assets planejados, hierarquia de GameObjects e etapas de execução.
 
+## Mockup
+Na aba Mockup, contém uma imagem gerada por IA de como eu imaginei a cena e o que eu pretendi fazer com o unity, além disso contem as imagens de como é o LabRedes atualmente (o local que serviu de inspiração).
+
 ## Estrutura prevista
 
 ```txt
